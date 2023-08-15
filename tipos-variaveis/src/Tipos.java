@@ -10,6 +10,13 @@ public class Tipos {
         long cpf = 4276897263L;
         float pi = 3.14f;
 
+        // Constantes não podem ser modificadas depois de declaradas
+        // com a palavra final, eu impeço a minha variavel mudar de valor
+        //constantes é sempre declarada em capslock
+
+        final double VALOR_DE_PI = 3.14; //o valor não será alterado.
+        //VALOR_DE_PI = 3; // vai dar erro
+
 
 
     }
