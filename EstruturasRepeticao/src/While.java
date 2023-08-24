@@ -23,6 +23,6 @@ public class While {
     }
     //assim que o valor dos doces bater os 50 reais da mesada, joao terá sua mesada zerada e comprará tudo em doces.
     private static double valorAleatorio(){
-        return ThreadLocalRandom.current().nextDouble(2,8);
+        return ThreadLocalRandom.current().nextDouble(2,8);// os valores dos doces serão entre 2 a 8 reais
     }
 }
