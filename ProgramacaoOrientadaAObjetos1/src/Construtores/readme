@@ -1,0 +1,7 @@
+O método construtor serve para iniciar um objeto quando ele é criado a partir de uma classe.
+O método construtor é como a linha de montagem que prepara um objeto assim que ele é "fabricado".Ele define como os
+atributos desse objetos devem ser inicializados, configurando seu estado inicial.
+O metodo construtor pode ser usado para criar as caracteristicas básicas de por exemplo, um carro, que inicialmente
+deve ter cor, modelo e ano definidos, assim como uma pessoa, deve ter inicialmente um nome e um cpf;
+Então, resumindo, o método construtor serve para inicializar os objetos de uma classe, definindo seu estado inicial e
+preparando-os para serem usados em seu programa.
