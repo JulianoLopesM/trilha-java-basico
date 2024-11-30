@@ -16,7 +16,7 @@ public class Tipos {
 
         final double VALOR_DE_PI = 3.14; //o valor não será alterado.
         //VALOR_DE_PI = 3; // vai dar erro
-
+        System.out.println("love you");
 
 
     }
