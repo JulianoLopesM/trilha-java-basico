@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+#pasta idea
+.idea/
 # Log file
 *.log
 
