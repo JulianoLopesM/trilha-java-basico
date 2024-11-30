@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControleCandidatos/ControleCandidatos.iml" filepath="$PROJECT_DIR$/ControleCandidatos/ControleCandidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicional/EstruturaCondicional.iml" filepath="$PROJECT_DIR$/EstruturaCondicional/EstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaExcepcionais/EstruturaExcepcionais.iml" filepath="$PROJECT_DIR$/EstruturaExcepcionais/EstruturaExcepcionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasRepeticao/EstruturasRepeticao.iml" filepath="$PROJECT_DIR$/EstruturasRepeticao/EstruturasRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio/Exercicio.iml" filepath="$PROJECT_DIR$/Exercicio/Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalavrasReservadas/PalavrasReservadas.iml" filepath="$PROJECT_DIR$/PalavrasReservadas/PalavrasReservadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoOrientadaAObjetos1/ProgramacaoOrientadaAObjetos1.iml" filepath="$PROJECT_DIR$/ProgramacaoOrientadaAObjetos1/ProgramacaoOrientadaAObjetos1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/trilha-java-basico.iml" />
+    </modules>
+  </component>
+</project>

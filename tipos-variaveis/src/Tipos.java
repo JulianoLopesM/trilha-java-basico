@@ -9,6 +9,7 @@ public class Tipos {
         double salario = 2500;
         long cpf = 4276897263L;
         float pi = 3.14f;
+        byte hey = 127;
 
         // Constantes não podem ser modificadas depois de declaradas
         // com a palavra final, eu impeço a minha variavel mudar de valor
