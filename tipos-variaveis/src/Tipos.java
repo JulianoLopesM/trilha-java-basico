@@ -17,6 +17,9 @@ public class Tipos {
 
         final double VALOR_DE_PI = 3.14; //o valor não será alterado.
         //VALOR_DE_PI = 3; // vai dar erro
+        //String nao é um tipo primitivo, a forma de declaraçção muda
+        String nome = "um monte de nada";
+        System.out.println(nome);
         System.out.println("love you");
 
 
