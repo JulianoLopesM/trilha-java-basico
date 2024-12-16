@@ -18,6 +18,10 @@ public class Operadores {
         int divisão = 15 / 3;
         int modulo = 18 % 3; // descubro o resto de uma divisão
 
+        //%, representa o resto da divisão
+        int resto = 21 % 7;
+        System.out.println(resto);
+
 
         // com "+" consigo concatenizar textos.
 
@@ -74,9 +78,20 @@ public class Operadores {
         simNao = numeroUm != numeroDois;
         System.out.println("o numeroUm é diferente do numeroDois? " + simNao);
 
+        simNao = numeroUm == numeroDois;
+        System.out.println("o numeroUm é igual ao numeroDois? " + simNao);
+
         //operadores lógicos, representam o recurso que nos permite criar expressçoes lógicas maiores;
-        //%% significa "e"
+        //&& significa "e"
         //|| significa "Ou"
+
+        int idade5 = 29;
+        float salario = 3500f;
+        boolean isDentroDaLeiMaiorQueTrinta = idade5 > 30 && salario >= 4712;
+        boolean isDentroDaLeiMenorQueTrinta = idade5 < 30 && salario >= 3200;
+        System.out.println("isDentroDaLeiMaiorQueTrinta " + isDentroDaLeiMaiorQueTrinta);
+        System.out.println("isDentroDaLeiMenorQueTrinta " + isDentroDaLeiMenorQueTrinta);
+
 
         boolean condição1 = true;
         boolean condição2 = false;
