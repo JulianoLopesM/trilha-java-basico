@@ -92,6 +92,12 @@ public class Operadores {
         System.out.println("isDentroDaLeiMaiorQueTrinta " + isDentroDaLeiMaiorQueTrinta);
         System.out.println("isDentroDaLeiMenorQueTrinta " + isDentroDaLeiMenorQueTrinta);
 
+        double valorTotalContaCorrente = 200;
+        double valorTotalContaPoupanca = 10000;
+        float valorPlays5 = 5000f;
+        boolean isPlays5Compravell = valorTotalContaCorrente > valorPlays5 || valorTotalContaPoupanca > valorPlays5;
+        System.out.println("Conseguimos comprar o play ? " + isPlays5Compravell );
+
 
         boolean condição1 = true;
         boolean condição2 = false;
