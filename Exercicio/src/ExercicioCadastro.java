@@ -13,6 +13,7 @@ public class ExercicioCadastro {
         String dataRecebimentoSalario = "16/12/2024";
         String relatório = "Eu " + nome + " ,morando no endereço " + endereco + ", confirmo que recebi o salário de " + salario + ", na data de " + dataRecebimentoSalario;
         System.out.println(relatório);
+        System.out.println("nada a mostrar");
 
     }
 }
